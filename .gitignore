@@ -1,0 +1,10 @@
+*.o
+*.elf
+*.bin
+*.out
+build/
+bin/
+.vscode/
+.idea/
+Thumbs.db
+*~
