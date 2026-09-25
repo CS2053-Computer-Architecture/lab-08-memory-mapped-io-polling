@@ -10,10 +10,6 @@ Department of Computer Science and Engineering, University of Moratuwa
 - Status register polling (busy-waiting) loops vs interrupt-driven device notification
 - Driver-level hardware abstraction routines in RISC-V assembly
 
-## Theory Alignment
-
-- Canonical lecture concepts, ISA specifications, and architecture theory are documented in the [CS2053-Weekly-Notes](https://github.com/CS2053-Computer-Architecture/CS2053-Weekly-Notes) repository.
-
 ## Repository Structure
 
 ```text
